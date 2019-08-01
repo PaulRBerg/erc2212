@@ -24,8 +24,7 @@
     "truffle-hdwallet-provider": "^1.0.14",
     "web3": "1.0.0-beta.55"
   },
-  "license": "MIT",
-  "main": "index.js",
+  "license": "LGPL-3.0",
   "scripts": {
     "clean": "shx rm -rf ./build ./export",
     "lint": "yarn lint:js && yarn lint:sol",
